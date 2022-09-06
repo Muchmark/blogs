@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "category": "software",
+      "company": "muchmark",
+      "date": "2022-09-08",
+      "id": "322",
+      "likes": "",
+      "long": "rerereer",
+      "short": "dffdf",
+      "sub": "software",
+      "title": "rteere",
+      "url": "http://res.cloudinary.com/dibwyka4z/image/upload/v1662534467/b1gqaphohzpsjirqnoah.png"
+    },
+    {
+      "id": "1001",
+      "category": "software",
+      "sub": "software",
+      "date": "2022-09-08",
+      "company": "muchmark",
+      "title": "sample title",
+      "long": "this is the long content .........",
+      "short": "short cntent",
+      "likes": "432",
+      "url": "http://res.cloudinary.com/dibwyka4z/image/upload/v1662535865/nfkla9nphoknnzpqfzjd.png"
+    },
+    {
+      "id": "1002",
+      "category": "software",
+      "sub": "software",
+      "date": "2022-09-08",
+      "company": "muchmark",
+      "title": "sample title",
+      "long": "this is the long content .........",
+      "short": "short cntent",
+      "likes": "432",
+      "url": "http://res.cloudinary.com/dibwyka4z/image/upload/v1662535995/jpqdccluga9xjfz8vubp.png"
+    }
+  ]
+}
