@@ -1,79 +1,16 @@
 {
-    "posts": [
-        {
-            "category": "software",
-            "company": "muchmark",
-            "date": "2022-09-08",
-            "id": "322",
-            "likes": "",
-            "long": "rerereer",
-            "short": "dffdf",
-            "sub": "software",
-            "title": "rteere",
-            "url": "http://res.cloudinary.com/dibwyka4z/image/upload/v1662534467/b1gqaphohzpsjirqnoah.png"
-        },
-        {
-            "id": "1001",
-            "category": "software",
-            "sub": "software",
-            "date": "2022-09-08",
-            "company": "muchmark",
-            "title": "sample title",
-            "long": "this is the long content .........",
-            "short": "short cntent",
-            "likes": "432",
-            "url": "http://res.cloudinary.com/dibwyka4z/image/upload/v1662535865/nfkla9nphoknnzpqfzjd.png"
-        },
-        {
-            "id": "1002",
-            "category": "software",
-            "sub": "software",
-            "date": "2022-09-08",
-            "company": "muchmark",
-            "title": "sample title",
-            "long": "this is the long content .........",
-            "short": "short cntent",
-            "likes": "432",
-            "url": "http://res.cloudinary.com/dibwyka4z/image/upload/v1662535995/jpqdccluga9xjfz8vubp.png"
-        },
-        {
-            "id": "1005",
-            "category": "Software",
-            "sub": "CRM",
-            "date": "2022-09-15",
-            "company": "Muchmark",
-            "title": "sample title",
-            "long": "content fullgthyyyhyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
-            "short": "short content",
-            "likes": "354",
-            "url": "http://res.cloudinary.com/dibwyka4z/image/upload/v1662539431/vzmxgdrimwmtjreqs1ta.png"
-        },
-        {
-            "id": "1006",
-            "category": "Software",
-            "sub": "CRM",
-            "date": "2022-09-17",
-            "company": "Muchmark",
-            "title": "sample title 2",
-            "long": "dfhkjfhkdgffgidgfigfgdbvjbvhudggdufguygfd",
-            "short": "fdfdffdf",
-            "likes": "234",
-            "url": ""
-        },
-        {
-            "id": "1008",
-            "category": "Software",
-            "sub": "CRM",
-            "date": "2022-09-17",
-            "company": "Muchmark",
-            "title": "sample title 2",
-            "long": "dfhkjfhkdgffgidgfigfgdbvjbvhudggdufguygfd",
-            "short": "fdfdffdf",
-            "likes": "234",
-            "url": ""
-        }
-        
-      
-           
-    ]
+  "posts": [
+    {
+      "id": "1001",
+      "category": "software",
+      "sub": "software",
+      "date": "2022-09-09",
+      "company": "muchmark",
+      "title": "sample title",
+      "long": "lorem data this is the content for full blgs",
+      "short": "short content",
+      "likes": "354",
+      "url": "http://res.cloudinary.com/dibwyka4z/image/upload/v1662703721/s6bo1dv0hqb2trmpdhjg.png"
+    }
+  ]
 }
